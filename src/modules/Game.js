@@ -10,7 +10,7 @@ export default function (guessForm, letterForm, inputLetter, errors, character, 
     const lifeShow = document.querySelector('.life');
     const name = document.querySelectorAll('.name');
     const middleName = document.querySelectorAll('.middlename') || null;
-    const lastName = document.querySelectorAll('.lastName') || null;
+    const lastNocument.querySelectorAll('.lastName') || null;
     const completeName = [name, middleName, lastName];
     let finalResponse = true;
     let correctAnswered = []
